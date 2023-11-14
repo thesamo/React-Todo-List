@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #1E40AF, #34D399);
+  min-height: 100vh;
+
+
+}
+
+
